@@ -2,6 +2,7 @@
 
 ## Project Description
 A hands-on data cleaning project using SQL. This repository documents my process of following along with the ["Data Cleaning in MySQL | Full Project"](https://youtu.be/4UltKCnnnTA?feature=shared) tutorial by Alex The Analyst on YouTube. The goal was to learn and practice my SQL skills, specifically focusing on preparing raw data for analysis.
+These are the notes I made for myself to go back to and remember what I practiced.
 
 **Disclaimer:** This is a **learning project**. The original data and project concept are from Alex The Analyst's GitHub. All credit for the data and project goes to him.
 
